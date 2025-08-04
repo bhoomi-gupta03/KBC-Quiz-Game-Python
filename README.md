@@ -13,7 +13,7 @@ Final amount is calculated based on correct responses
 User-friendly terminal interface
 
 📂 File Structure
-Copy code
+
 KBC-Quiz-Game-Python/
 ├── KBC-Quiz-Game-Python.ipynb
 └── README.md
@@ -25,19 +25,15 @@ Jupyter Notebook
 🚀 How to Run
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/KBC-Quiz-Game-Python.git
 Open the notebook:
 
-bash
-Copy code
+
 jupyter notebook KBC-Quiz-Game-Python.ipynb
 Run each cell and play the game!
 
 📸 Preview
-markdown
-Copy code
 Q1: What is the capital of India?
 A. Delhi
 B. Mumbai
